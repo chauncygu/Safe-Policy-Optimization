@@ -22,6 +22,8 @@ setup(
         "pyyaml",
         "matplotlib",
         "tensorboardX",
+        "scipy",
+        "pandas",
         "gym==0.15.3"
         # we recommend use conda install scipy and mpi4py
     ],
